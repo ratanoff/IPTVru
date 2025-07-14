@@ -626,10 +626,12 @@ https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="vektor-24" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="Региональные",Вектор 24 HD
 http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
-#EXTINF:-1 tvg-id="rifey-perm" tvg-logo="https://sun6-22.userapi.com/s/v1/ig1/bnOoSXcPTgwSkNVKtRt5AKDojimGrsmAFIqMsEgjjIxoS3P29ttkRbbJkK3r_g3-W1mYRDvq.jpg?quality=96&crop=0,0,200,200&as=32x32,48x48,72x72,108x108,160x160&ava=1&cs=100x100" group-title="Пермь",Рифей-Пермь
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=6gUM1Vr7wcLZU6OBQYoGFw&e=1752593473&scheme=https
+#EXTINF:-1 tvg-id="rifey-perm-hd" tvg-logo="https://sun6-22.userapi.com/s/v1/ig1/bnOoSXcPTgwSkNVKtRt5AKDojimGrsmAFIqMsEgjjIxoS3P29ttkRbbJkK3r_g3-W1mYRDvq.jpg?quality=96&crop=0,0,200,200&as=32x32,48x48,72x72,108x108,160x160&ava=1&cs=100x100" group-title="Пермь",Рифей-Пермь HD
+https://river-3-335.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/Dg4-rE_rDncPN_aoakx2iA/1753112520/57486bf8e1c01d16a5a939c463867fab/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Пермь",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="rifey-perm" tvg-logo="https://sun6-22.userapi.com/s/v1/ig1/bnOoSXcPTgwSkNVKtRt5AKDojimGrsmAFIqMsEgjjIxoS3P29ttkRbbJkK3r_g3-W1mYRDvq.jpg?quality=96&crop=0,0,200,200&as=32x32,48x48,72x72,108x108,160x160&ava=1&cs=100x100" group-title="Пермь",Рифей-Пермь
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=6gUM1Vr7wcLZU6OBQYoGFw&e=1752593473&scheme=https
 #EXTINF:-1 tvg-id="volga" tvg-logo="https://iptvx.one/picons/volga.png" group-title="Региональные",Волга HD (Нижний Новгород)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="volgograd-24" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="Региональные",Волгоград 24
